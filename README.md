@@ -47,7 +47,7 @@ note-app-backend/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/note-app-backend-nodejs.git
+git clone https://github.com/sanjula77/note-app-backend-nodejs.git
 cd note-app-backend-nodejs
 ```
 
