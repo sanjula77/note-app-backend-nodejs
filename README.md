@@ -1,6 +1,6 @@
 # 📝 Note App Backend (Node.js + Express + MongoDB)
 
-A clean, modular RESTful API for a simple note-taking mobile application. Built with **Node.js**, **Express**, and **MongoDB**, this backend is designed following industry best practices, ready to be integrated with an Android frontend using **Jetpack Compose**.
+A clean modular RESTful API for a simple note-taking mobile application. Built with **Node.js**, **Express**, and **MongoDB**, this backend is designed following industry best practices, ready to be integrated with an Android frontend using **Jetpack Compose**.
 
 ---
 
